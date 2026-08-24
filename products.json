@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "name": "Confetti Pop Candle Trio",
+    "category": "Birthday",
+    "price": 28,
+    "description": "Three hand-poured soy candles that smell like cake batter, citrus fizz, and sparklers.",
+    "image": "https://picsum.photos/seed/gifthouse1/600/600"
+  },
+  {
+    "id": 2,
+    "name": "Milestone Year Print",
+    "category": "Birthday",
+    "price": 42,
+    "description": "A custom star-map print set to the exact date and city of their birth.",
+    "image": "https://picsum.photos/seed/gifthouse2/600/600"
+  },
+  {
+    "id": 3,
+    "name": "Birthday Morning Tray Set",
+    "category": "Birthday",
+    "price": 54,
+    "description": "Bamboo breakfast-in-bed tray with a mini bud vase and folded card slot.",
+    "image": "https://picsum.photos/seed/gifthouse3/600/600"
+  },
+  {
+    "id": 4,
+    "name": "Sparkler Send-Off Box",
+    "category": "Birthday",
+    "price": 18,
+    "description": "A tin of twelve long-burning sparklers with a printed lighting guide.",
+    "image": "https://picsum.photos/seed/gifthouse4/600/600"
+  },
+  {
+    "id": 5,
+    "name": "His & Hers Cutting Boards",
+    "category": "Wedding",
+    "price": 68,
+    "description": "Engraved matching walnut boards, sold as a nesting pair.",
+    "image": "https://picsum.photos/seed/gifthouse5/600/600"
+  },
+  {
+    "id": 6,
+    "name": "Vow Keeper Journal Set",
+    "category": "Wedding",
+    "price": 36,
+    "description": "Two linen-bound journals for writing (and re-reading) their vows.",
+    "image": "https://picsum.photos/seed/gifthouse6/600/600"
+  },
+  {
+    "id": 7,
+    "name": "Toast to Forever Glass Set",
+    "category": "Wedding",
+    "price": 58,
+    "description": "Hand-etched champagne coupes with the couple's initials and date.",
+    "image": "https://picsum.photos/seed/gifthouse7/600/600"
+  },
+  {
+    "id": 8,
+    "name": "Wedding Weekend Welcome Kit",
+    "category": "Wedding",
+    "price": 44,
+    "description": "A curated tote for out-of-town guests with local snacks and a map card.",
+    "image": "https://picsum.photos/seed/gifthouse8/600/600"
+  },
+  {
+    "id": 9,
+    "name": "First Year Memory Box",
+    "category": "New Baby",
+    "price": 46,
+    "description": "A keepsake box with twelve dated envelopes for a photo a month.",
+    "image": "https://picsum.photos/seed/gifthouse9/600/600"
+  },
+  {
+    "id": 10,
+    "name": "Tiny Feet Knit Bundle",
+    "category": "New Baby",
+    "price": 39,
+    "description": "Organic cotton booties, cap, and blanket in a reusable gift box.",
+    "image": "https://picsum.photos/seed/gifthouse10/600/600"
+  },
+  {
+    "id": 11,
+    "name": "Nursery Constellation Nightlight",
+    "category": "New Baby",
+    "price": 34,
+    "description": "Projects the night sky from their exact birth date and time.",
+    "image": "https://picsum.photos/seed/gifthouse11/600/600"
+  },
+  {
+    "id": 12,
+    "name": "New Parent Survival Basket",
+    "category": "New Baby",
+    "price": 52,
+    "description": "Snacks, tea, and a hand-written 'you've got this' card for the parents.",
+    "image": "https://picsum.photos/seed/gifthouse12/600/600"
+  },
+  {
+    "id": 13,
+    "name": "First Night Candle & Matches Set",
+    "category": "Housewarming",
+    "price": 26,
+    "description": "A stoneware candle meant to be lit the first night in a new home.",
+    "image": "https://picsum.photos/seed/gifthouse13/600/600"
+  },
+  {
+    "id": 14,
+    "name": "Welcome Mat Doormat, Custom",
+    "category": "Housewarming",
+    "price": 32,
+    "description": "Coir doormat personalized with the family name or house number.",
+    "image": "https://picsum.photos/seed/gifthouse14/600/600"
+  },
+  {
+    "id": 15,
+    "name": "Herb Garden Starter Kit",
+    "category": "Housewarming",
+    "price": 24,
+    "description": "Three windowsill pots pre-seeded with basil, thyme, and mint.",
+    "image": "https://picsum.photos/seed/gifthouse15/600/600"
+  },
+  {
+    "id": 16,
+    "name": "New Address Stationery Set",
+    "category": "Housewarming",
+    "price": 30,
+    "description": "Fifty printed note cards with their new address, ready to mail.",
+    "image": "https://picsum.photos/seed/gifthouse16/600/600"
+  },
+  {
+    "id": 17,
+    "name": "Growth Chart of Us Print",
+    "category": "Anniversary",
+    "price": 40,
+    "description": "A custom timeline print marking the years from the date they met.",
+    "image": "https://picsum.photos/seed/gifthouse17/600/600"
+  },
+  {
+    "id": 18,
+    "name": "Anniversary Wine Box, Locked",
+    "category": "Anniversary",
+    "price": 62,
+    "description": "A wooden box that opens only with a small saw, filled on year one, opened on year ten.",
+    "image": "https://picsum.photos/seed/gifthouse18/600/600"
+  },
+  {
+    "id": 19,
+    "name": "His & Hers Matching Mugs",
+    "category": "Anniversary",
+    "price": 27,
+    "description": "Stoneware mug set with a small engraved year on the base.",
+    "image": "https://picsum.photos/seed/gifthouse19/600/600"
+  },
+  {
+    "id": 20,
+    "name": "Love Letter Keepsake Tin",
+    "category": "Anniversary",
+    "price": 33,
+    "description": "A tin pre-loaded with prompt cards for writing notes to open on future anniversaries.",
+    "image": "https://picsum.photos/seed/gifthouse20/600/600"
+  },
+  {
+    "id": 21,
+    "name": "Thank You Cookie Bouquet",
+    "category": "Thank You",
+    "price": 38,
+    "description": "A dozen hand-iced cookies arranged like a bouquet, in a gift box.",
+    "image": "https://picsum.photos/seed/gifthouse21/600/600"
+  },
+  {
+    "id": 22,
+    "name": "Grateful Heart Succulent Trio",
+    "category": "Thank You",
+    "price": 22,
+    "description": "Three low-maintenance succulents in mini terracotta pots with a thank-you tag.",
+    "image": "https://picsum.photos/seed/gifthouse22/600/600"
+  },
+  {
+    "id": 23,
+    "name": "Hand-Poured Thank You Candle",
+    "category": "Thank You",
+    "price": 19,
+    "description": "A single candle labeled with a short, specific thank-you message.",
+    "image": "https://picsum.photos/seed/gifthouse23/600/600"
+  },
+  {
+    "id": 24,
+    "name": "Notes of Gratitude Card Set",
+    "category": "Thank You",
+    "price": 16,
+    "description": "Ten letterpress thank-you cards with envelopes, blank inside.",
+    "image": "https://picsum.photos/seed/gifthouse24/600/600"
+  },
+  {
+    "id": 25,
+    "name": "Comfort Care Package",
+    "category": "Sympathy",
+    "price": 48,
+    "description": "Herbal tea, a soft throw, and a quiet, handwritten note of support.",
+    "image": "https://picsum.photos/seed/gifthouse25/600/600"
+  },
+  {
+    "id": 26,
+    "name": "Memory Tree Planting Kit",
+    "category": "Sympathy",
+    "price": 29,
+    "description": "A small tree sapling kit to plant in memory of a loved one.",
+    "image": "https://picsum.photos/seed/gifthouse26/600/600"
+  },
+  {
+    "id": 27,
+    "name": "In Loving Memory Photo Frame",
+    "category": "Sympathy",
+    "price": 34,
+    "description": "A simple engraved frame for a favorite photo of the person remembered.",
+    "image": "https://picsum.photos/seed/gifthouse27/600/600"
+  },
+  {
+    "id": 28,
+    "name": "Sympathy Flower & Candle Set",
+    "category": "Sympathy",
+    "price": 41,
+    "description": "Dried everlasting flowers paired with an unscented, long-burning candle.",
+    "image": "https://picsum.photos/seed/gifthouse28/600/600"
+  },
+  {
+    "id": 29,
+    "name": "Slow Morning Ritual Box",
+    "category": "Self-Care",
+    "price": 44,
+    "description": "Loose-leaf tea, a linen eye mask, and a journal for quiet mornings.",
+    "image": "https://picsum.photos/seed/gifthouse29/600/600"
+  },
+  {
+    "id": 30,
+    "name": "Warm Bath Soak Trio",
+    "category": "Self-Care",
+    "price": 26,
+    "description": "Three mineral bath soaks in eucalyptus, lavender, and citrus.",
+    "image": "https://picsum.photos/seed/gifthouse30/600/600"
+  },
+  {
+    "id": 31,
+    "name": "Weighted Comfort Wrap",
+    "category": "Self-Care",
+    "price": 32,
+    "description": "A microwavable, weighted shoulder wrap filled with flaxseed and lavender.",
+    "image": "https://picsum.photos/seed/gifthouse31/600/600"
+  },
+  {
+    "id": 32,
+    "name": "Do Not Disturb Reading Kit",
+    "category": "Self-Care",
+    "price": 47,
+    "description": "A cozy blanket, bookmark, and candle bundle for a guilt-free reading afternoon.",
+    "image": "https://picsum.photos/seed/gifthouse32/600/600"
+  },
+  {
+    "id": 33,
+    "name": "Pawtrait Custom Illustration",
+    "category": "Pet Lovers",
+    "price": 36,
+    "description": "A custom line-art print of their pet, printed and framed.",
+    "image": "https://picsum.photos/seed/gifthouse33/600/600"
+  },
+  {
+    "id": 34,
+    "name": "First Walk Puppy Kit",
+    "category": "Pet Lovers",
+    "price": 28,
+    "description": "Treats, a bandana, and a poop-bag holder for a new puppy.",
+    "image": "https://picsum.photos/seed/gifthouse34/600/600"
+  },
+  {
+    "id": 35,
+    "name": "Pet Paw Print Kit",
+    "category": "Pet Lovers",
+    "price": 21,
+    "description": "A clean, mess-light kit for casting a keepsake paw print.",
+    "image": "https://picsum.photos/seed/gifthouse35/600/600"
+  },
+  {
+    "id": 36,
+    "name": "Cat Nap Blanket Set",
+    "category": "Pet Lovers",
+    "price": 24,
+    "description": "A soft fleece blanket sized for a favorite window-sill spot.",
+    "image": "https://picsum.photos/seed/gifthouse36/600/600"
+  },
+  {
+    "id": 37,
+    "name": "Build-Your-Own Fort Kit",
+    "category": "Kids",
+    "price": 34,
+    "description": "Poles, clips, and glow stars for building blanket forts on repeat.",
+    "image": "https://picsum.photos/seed/gifthouse37/600/600"
+  },
+  {
+    "id": 38,
+    "name": "Story Time Puppet Set",
+    "category": "Kids",
+    "price": 27,
+    "description": "Three hand puppets with a laminated card of story prompts.",
+    "image": "https://picsum.photos/seed/gifthouse38/600/600"
+  },
+  {
+    "id": 39,
+    "name": "Grow-With-Me Height Chart",
+    "category": "Kids",
+    "price": 25,
+    "description": "A canvas height chart that rolls up and travels between homes.",
+    "image": "https://picsum.photos/seed/gifthouse39/600/600"
+  },
+  {
+    "id": 40,
+    "name": "First Science Kit",
+    "category": "Kids",
+    "price": 31,
+    "description": "Five safe kitchen-table experiments with all materials included.",
+    "image": "https://picsum.photos/seed/gifthouse40/600/600"
+  },
+  {
+    "id": 41,
+    "name": "Welcome Aboard Desk Set",
+    "category": "Corporate",
+    "price": 39,
+    "description": "A notebook, pen, and mug bundle branded lightly for new hires.",
+    "image": "https://picsum.photos/seed/gifthouse41/600/600"
+  },
+  {
+    "id": 42,
+    "name": "Client Appreciation Crate",
+    "category": "Corporate",
+    "price": 56,
+    "description": "Coffee, shortbread, and a handwritten note, boxed for shipping.",
+    "image": "https://picsum.photos/seed/gifthouse42/600/600"
+  },
+  {
+    "id": 43,
+    "name": "Milestone Anniversary Plaque",
+    "category": "Corporate",
+    "price": 45,
+    "description": "An engraved desk plaque marking a work anniversary year.",
+    "image": "https://picsum.photos/seed/gifthouse43/600/600"
+  },
+  {
+    "id": 44,
+    "name": "Team Celebration Snack Box",
+    "category": "Corporate",
+    "price": 49,
+    "description": "A shareable box of snacks for hitting a team goal.",
+    "image": "https://picsum.photos/seed/gifthouse44/600/600"
+  },
+  {
+    "id": 45,
+    "name": "Fireside Cocoa Gift Set",
+    "category": "Holiday & Seasonal",
+    "price": 29,
+    "description": "Drinking chocolate, marshmallows, and a mug for cold nights.",
+    "image": "https://picsum.photos/seed/gifthouse45/600/600"
+  },
+  {
+    "id": 46,
+    "name": "Ornament of the Year",
+    "category": "Holiday & Seasonal",
+    "price": 18,
+    "description": "A dated keepsake ornament, boxed for easy re-gifting or saving.",
+    "image": "https://picsum.photos/seed/gifthouse46/600/600"
+  },
+  {
+    "id": 47,
+    "name": "Winter Warmth Bundle",
+    "category": "Holiday & Seasonal",
+    "price": 33,
+    "description": "Wool socks, hand cream, and cocoa balm in a ribboned box.",
+    "image": "https://picsum.photos/seed/gifthouse47/600/600"
+  },
+  {
+    "id": 48,
+    "name": "Countdown Advent Calendar",
+    "category": "Holiday & Seasonal",
+    "price": 42,
+    "description": "Twenty-four numbered drawers, refillable for treats or notes.",
+    "image": "https://picsum.photos/seed/gifthouse48/600/600"
+  },
+  {
+    "id": 49,
+    "name": "Signature Gift Wrap Add-On",
+    "category": "Corporate",
+    "price": 6,
+    "description": "Kraft paper wrap with twine and a hand-tied gift tag.",
+    "image": "https://picsum.photos/seed/gifthouse49/600/600"
+  },
+  {
+    "id": 50,
+    "name": "Rush Gift Wrap Add-On",
+    "category": "Corporate",
+    "price": 8,
+    "description": "Same-day wrap and ribbon for last-minute orders.",
+    "image": "https://picsum.photos/seed/gifthouse50/600/600"
+  },
+  {
+    "id": 51,
+    "name": "Gift House Tote Bag",
+    "category": "Housewarming",
+    "price": 14,
+    "description": "Canvas tote stamped with the Gift House logo, useful long after the gift.",
+    "image": "https://picsum.photos/seed/gifthouse51/600/600"
+  },
+  {
+    "id": 52,
+    "name": "Gift House Gift Card",
+    "category": "Birthday",
+    "price": 25,
+    "description": "A digital gift card in any amount, delivered by email.",
+    "image": "https://picsum.photos/seed/gifthouse52/600/600"
+  }
+]
